@@ -3,6 +3,7 @@
     "create-react-app": "^5.0.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "gh-pages": "^6.1.1",
     "react-scripts": "^5.0.1"
   },
@@ -11,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+=======
+    "gh-pages": "^6.1.1"
+   
+>>>>>>> ed522f5dfa4ad0615512afc7db013d6e15c9882f
   }
 }
